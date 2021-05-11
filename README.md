@@ -3,7 +3,8 @@
 
 ```
 
-The Textng Node library provides convenient access to the Textng API from applications written in server-side JavaScript.
+The Textng Node library provides convenient access to the Textng API from
+applications written in server-side JavaScript.
 
 
 ```
